@@ -1,0 +1,58 @@
+23:46:09.905 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:46:09.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:46:10.351 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:46:11.809 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:46:14.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:46:14.446 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:46:31.503 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:46:31.504 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:46:32.339 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:46:34.280 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:46:34.355 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:49:37.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Hrutwik\Workspace\Opencart_V155\master.xml
+
+23:49:40.243 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:49:40.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:49:50.381 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+23:49:53.451 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:49:53.453 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:49:53.974 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:49:54.386 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:49:55.854 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:50:32.183 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Hrutwik\Workspace\Opencart_V155\master.xml
+
+23:50:35.994 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:50:36.029 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:50:36.244 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:50:36.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:50:40.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:50:40.629 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:50:43.312 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:50:43.318 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:50:43.935 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:50:44.258 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:50:46.078 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:52:27.930 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Hrutwik\Workspace\Opencart_V155\grid-docker.xml
+
+23:52:37.363 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:52:37.409 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:52:37.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:52:38.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:52:40.778 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:52:40.839 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:52:46.048 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:52:46.049 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:52:46.633 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:52:48.628 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:52:48.713 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:54:07.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Hrutwik\Workspace\Opencart_V155\grid-docker.xml
+
+23:54:13.825 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:54:13.861 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:54:14.020 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:54:14.590 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:54:17.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..

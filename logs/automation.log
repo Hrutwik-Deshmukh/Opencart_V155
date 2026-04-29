@@ -1,0 +1,46 @@
+00:22:40.468 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+00:22:40.550 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:27:19.636 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:27:19.688 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:27:19.910 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:27:20.602 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:27:23.417 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:27:23.492 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:27:27.039 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:27:27.039 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:27:27.985 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:27:29.893 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:27:29.960 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:29:23.284 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:29:23.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:29:23.533 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:29:24.211 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:29:27.379 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:29:27.430 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:29:30.170 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:29:30.170 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:29:30.752 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:29:32.308 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:29:32.374 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+23:48:11.800 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+23:48:11.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+23:48:12.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+23:48:12.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+23:48:15.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+23:48:15.371 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+23:48:18.195 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+23:48:18.195 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+23:48:18.850 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+23:48:21.105 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+23:48:21.180 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****
+00:12:06.689 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Started ****
+00:12:06.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+00:12:06.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+00:12:07.682 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+00:12:10.420 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the expected message..
+00:12:10.498 [main] INFO  testCases.TC001_AccountRegistrationTest - **** TC001_AccountRegistrationTest is Finished ****
+00:12:13.057 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_Login Test ****
+00:12:13.061 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link..
+00:12:13.615 [main] INFO  testCases.TC002_LoginTest - Providing user account details..
+00:12:13.934 [main] INFO  testCases.TC002_LoginTest - Validating My Account Heading is displayed or not..
+00:12:15.135 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_Login Test ****

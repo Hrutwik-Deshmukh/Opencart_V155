@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+    
+    <Properties>
+        <Property name="basePath">./logs</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <SizeBasedTriggeringPolicy size="5000" />
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="Info">
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+	
+<!-- Level ==> Severity ==> Description
+ALL   ==> Lowest    ==> Turns on all logging levels.
+TRACE ==> Very Low  ==>"Extremely fine-grained details (e.g., tracking every step in a loop)."
+DEBUG ==> Low       ==> (Your Current Setting) Information useful for debugging the application.
+INFO  ==> Medium    ==> General highlights of application progress (e.g., "Test Started").
+WARN  ==> High      ==> "Potentially harmful situations or ""soft"" errors."
+ERROR ==> Very High ==> Error events that might still allow the application to continue running.
+FATAL ==> Highest   ==> Severe errors that will likely lead the application to abort.
+OFF   ==> N/A       ==> Turns off all logging entirely. -->
+	
+</Configuration>
